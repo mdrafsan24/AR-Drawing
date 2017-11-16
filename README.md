@@ -1,3 +1,3 @@
 # AR-Drawing
 Simple AR Drawing Game built using the ARKit
-![Alt Text](https://giphy.com/gifs/xT0xeweyf8AqsZHeuc)
+![Alt Text](https://media.giphy.com/media/xT0xeweyf8AqsZHeuc/giphy-downsized-large.gif)
